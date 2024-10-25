@@ -1,1 +1,3 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```javascipt
+ var Myvar = "Hello world!";
+```
